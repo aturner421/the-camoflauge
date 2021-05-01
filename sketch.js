@@ -14,7 +14,7 @@ function draw() {
   
   
   stroke(0, 0, 0) // an RGB color for the border
-  fill(150, 150, 255,255); // an RGB color for the inside of the (the last number refers to transparency (min. 0, max. 255))
+  fill(100, 100, 255,255); // an RGB color for the inside of the (the last number refers to transparency (min. 0, max. 255))
   ellipse(mouseX,mouseY,50,50)
 
 strokeWeight(3);
