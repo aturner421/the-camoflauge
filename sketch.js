@@ -17,7 +17,7 @@ function draw() {
   fill(150, 150, 255,255); // an RGB color for the inside of the (the last number refers to transparency (min. 0, max. 255))
   ellipse(mouseX,mouseY,50,50)
 
-strokeWeight(5);
+strokeWeight(3);
  stroke(0,0,0);
  fill(r, g, b, 255);
  ellipse(360, 200, 200, 200);
